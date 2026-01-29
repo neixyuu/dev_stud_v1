@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Hey, ini aku Dzakwan, aku ngetik ini cuma mau ngingetin makasih dah belajar, arigatou :D
 void main() {
   runApp(const MyApp());
 }
